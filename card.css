@@ -1,0 +1,68 @@
+p {
+  margin: 0%;
+}
+.hero {
+  width: 300px;
+  height: 600px;
+  border: solid 1px;
+  border-radius: 15px;
+}
+
+.photo {
+  position: relative;
+  left: 15px;
+  top: 20px;
+  width: 270px;
+  height: 375px;
+  border-radius: 15px;
+}
+
+.txt {
+  position: relative;
+  top: 30px;
+  left: 15px;
+  font-size: 23px;
+}
+#lieu {
+  font-size: 22px;
+  font-weight: bold;
+  margin: 5px;
+}
+#date {
+  font-size: 20px;
+  margin: 8px;
+}
+
+#button {
+  border-radius: 10px;
+  padding: 5px;
+  font-weight: bold;
+  background-color: rgb(197, 245, 247);
+  border: none;
+  margin-top: 15px;
+}
+
+#button :hover {
+  background-color: rgb(78, 78, 255);
+}
+
+#end {
+  margin-top: 12px;
+  font-size: 18px;
+}
+
+#coeur {
+  width: 30px;
+  height: 30px;
+  background-color: white;
+  border-radius: 20px;
+  position: fixed;
+  top: 40px;
+  right: 1395px;
+  border: none;
+}
+
+#coeur :hover {
+  background-color: rgb(249, 117, 161);
+  color: black;
+}
